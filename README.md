@@ -30,3 +30,4 @@ You can get started using the following steps:
     2. Enter the CNAME prefix you want to use for this environment.
   5. Once the environment creation process completes, run `eb open` to open the application in a browser.
   6. Run `eb terminate --all` to clean up.
+  -Vijay
